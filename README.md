@@ -2,7 +2,7 @@
 
 Informational website for the personal Google Health-to-Box export pilot.
 
-The privacy policy and terms are review drafts and are not yet effective. Hosting this draft is not Google verification or approval to enroll participants.
+The operator approved publication of the homepage, privacy policy, and terms on November 5, 2026. Website publication is not Google verification or approval to enroll participants.
 
 ## Hosting
 
